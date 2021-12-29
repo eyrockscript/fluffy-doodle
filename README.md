@@ -6,7 +6,7 @@ A template of rest service
 -  SwaggerUI + OpenAPI [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/ "http://localhost:8080/swagger-ui/index.html#/")
 -  H2 [http://localhost:8080/h2](http://localhost:8080/h2 "http://localhost:8080/h2")
 
-## For running
+## Run it!
 In commandline
 ```shell
 gradle bootRun
